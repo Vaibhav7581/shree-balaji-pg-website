@@ -30,8 +30,7 @@ export default function Home() {
         "AC/Non-AC options",
         "Daily cleaning included",
       ],
-      image:
-        "https://d2xsxph8kpxj0f.cloudfront.net/310519663479052245/DXG6ifuLrLFsa2RDADA3Nn/room-interior-single-BhFvEPyMDdvfsFgECg33qq.webp",
+      image: "/manus-storage/pg_room_real_photo_1_d147f1aa.webp",
     },
     {
       id: "double",
@@ -45,8 +44,7 @@ export default function Home() {
         "Wardrobe & storage",
         "Natural light & ventilation",
       ],
-      image:
-        "https://d2xsxph8kpxj0f.cloudfront.net/310519663479052245/DXG6ifuLrLFsa2RDADA3Nn/room-interior-single-BhFvEPyMDdvfsFgECg33qq.webp",
+      image: "/manus-storage/pg_room_real_photo_2_4f4637e9.webp",
     },
     {
       id: "triple",
@@ -60,8 +58,7 @@ export default function Home() {
         "Spacious room layout",
         "Community-focused environment",
       ],
-      image:
-        "https://d2xsxph8kpxj0f.cloudfront.net/310519663479052245/DXG6ifuLrLFsa2RDADA3Nn/room-interior-single-BhFvEPyMDdvfsFgECg33qq.webp",
+      image: "/manus-storage/pg_room_real_photo_1_d147f1aa.webp",
     },
   ];
 
@@ -164,7 +161,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="relative w-full h-[500px] md:h-[600px] overflow-hidden">
         <img
-          src="https://d2xsxph8kpxj0f.cloudfront.net/310519663479052245/DXG6ifuLrLFsa2RDADA3Nn/hero-pg-building-normESGiYMd3nrGsrx5ZjZ.webp"
+          src="/manus-storage/pg_building_exterior_real_4709eae0.webp"
           alt="Shree Balaji PG Building"
           className="w-full h-full object-cover"
         />

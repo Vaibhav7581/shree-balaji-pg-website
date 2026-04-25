@@ -10,40 +10,35 @@ export default function Gallery() {
       id: 1,
       title: "Building Exterior",
       description: "Modern PG building with welcoming entrance",
-      image:
-        "https://d2xsxph8kpxj0f.cloudfront.net/310519663479052245/DXG6ifuLrLFsa2RDADA3Nn/hero-pg-building-normESGiYMd3nrGsrx5ZjZ.webp",
+      image: "/manus-storage/pg_building_exterior_real_4709eae0.webp",
       category: "Building",
     },
     {
       id: 2,
-      title: "Single Room",
-      description: "Spacious single occupancy room with study desk",
-      image:
-        "https://d2xsxph8kpxj0f.cloudfront.net/310519663479052245/DXG6ifuLrLFsa2RDADA3Nn/room-interior-single-BhFvEPyMDdvfsFgECg33qq.webp",
+      title: "Double Sharing Room",
+      description: "Spacious room with two beds and study desks",
+      image: "/manus-storage/pg_room_real_photo_1_d147f1aa.webp",
       category: "Rooms",
     },
     {
       id: 3,
-      title: "Common Lounge",
-      description: "Modern lounge area for relaxation and socializing",
-      image:
-        "https://d2xsxph8kpxj0f.cloudfront.net/310519663479052245/DXG6ifuLrLFsa2RDADA3Nn/common-area-lounge-HT3hedT3SWNcYv2uaQvStS.webp",
-      category: "Common Areas",
+      title: "Room Interior",
+      description: "Well-furnished room with wardrobe and storage",
+      image: "/manus-storage/pg_room_real_photo_2_4f4637e9.webp",
+      category: "Rooms",
     },
     {
       id: 4,
       title: "Dining Area",
       description: "Hygienic dining area with fresh, delicious meals",
-      image:
-        "https://d2xsxph8kpxj0f.cloudfront.net/310519663479052245/DXG6ifuLrLFsa2RDADA3Nn/food-dining-area-JCfJZ96CUJJboysrhgHSnB.webp",
+      image: "/manus-storage/pg_room_real_photo_1_d147f1aa.webp",
       category: "Dining",
     },
     {
       id: 5,
       title: "Location Map",
       description: "Strategic location near major IT companies",
-      image:
-        "https://d2xsxph8kpxj0f.cloudfront.net/310519663479052245/DXG6ifuLrLFsa2RDADA3Nn/location-map-hinjewadi-B34tN2WJVFanhjGaC3rDza.webp",
+      image: "/manus-storage/pg_building_exterior_real_4709eae0.webp",
       category: "Location",
     },
   ];
